@@ -1,0 +1,16 @@
+---
+author: Your Name
+date: '`r format(Sys.Date())`'
+title: Homework Assignment
+---
+## Exercises
+
+
+1. Reproduce the image plot we previously made but for smallpox. For this plot, do not include years in which cases were not reported in 10 or more weeks.
+
+2. Now reproduce the time series plot we previously made, but this time following the instructions of the previous question for smallpox.
+
+3. For the state of California, make a time series plot showing rates for all diseases. Include only years with 10 or more weeks reporting. Use a different color for each disease.
+
+4. Now do the same for the rates for the US. Hint: compute the US rate by using summarize: the total divided by total population.
+

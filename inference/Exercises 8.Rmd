@@ -1,0 +1,5 @@
+---
+author: Your Name
+date: '`r format(Sys.Date())`'
+title: Homework Assignment
+---
